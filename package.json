@@ -1,0 +1,21 @@
+{
+  "name": "mushroomsynth",
+  "displayName": "MushroomSynth",
+  "description": "This is a dark VSCode theme inspired by synthvawe colours.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MushroomSynth",
+        "uiTheme": "hc-black",
+        "path": "./themes/MushroomSynth-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "name": "Neon Synthwave",
+  "colors": {
+    "activityBar.background": "#131926",
+    "activityBar.foreground": "#FFD700",
+    "activityBarBadge.background": "#FF1493",
+    "activityBarBadge.foreground": "#131926",
+    "sideBar.background": "#0F1320",
+    "sideBar.foreground": "#FFD700",
+    "sideBar.border": "#131926",
+    "list.hoverBackground": "#222c42",
+    "editor.background": "#0D1118",
+    "editor.foreground": "#F0F8FF",
+    "editorLineNumber.foreground": "#87CEFA",
+    "editorLineNumber.activeForeground": "#FFD700",
+    "editorCursor.foreground": "#FF1493",
+    "editor.selectionBackground": "#1E90FF",
+    "editor.selectionHighlightBackground": "#2F4F4F",
+    "editor.wordHighlightBackground": "#1E90FF",
+    "editor.wordHighlightStrongBackground": "#2F4F4F",
+    "editor.findMatchBackground": "#FFD700",
+    "editor.findMatchHighlightBackground": "#FF4500",
+    "editor.lineHighlightBackground": "#191970",
+
+    "editorRuler.foreground": "#00CED1",
+    "editorCodeLens.foreground": "#FFD700",
+    "editorWhitespace.foreground": "#4169E1",
+    "editorBracketMatch.background": "#FFD700",
+    "editorBracketMatch.border": "#1E90FF",
+    "editorGutter.background": "#0D1118",
+    "editorHoverWidget.background": "#1E90FF",
+    "editorHoverWidget.border": "#FF4500",
+    "editorSuggestWidget.background": "#1E90FF",
+    "editorSuggestWidget.border": "#FF4500",
+    "editorSuggestWidget.selectedBackground": "#FFD700",
+    "peekView.border": "#FFD700",
+    "peekViewEditor.background": "#1E90FF",
+    "peekViewEditor.matchHighlightBackground": "#FF4500",
+    "peekViewResult.background": "#1E90FF",
+    "peekViewResult.selectionBackground": "#FFD700",
+    "peekViewTitle.background": "#0D1118",
+    "statusBar.background": "#0D1118",
+    "statusBar.foreground": "#FFD700",
+    "statusBar.noFolderBackground": "#0D1118",
+    "statusBarItem.hoverBackground": "#1E90FF",
+    "statusBar.border": "#FF4500",
+    "titleBar.activeBackground": "#0D1118",
+    "titleBar.activeForeground": "#FFD700",
+    "titleBar.inactiveBackground": "#131926",
+    "titleBar.inactiveForeground": "#FFD700",
+    "tab.activeBackground": "#0D1118",
+    "tab.activeForeground": "#FFD700",
+    "tab.border": "#FF4500",
+    "tab.inactiveBackground": "#131926",
+    "tab.inactiveForeground": "#FFD700",
+    "terminal.background": "#0D1118",
+    "terminal.foreground": "#F0F8FF",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "#87CEFA",
+    "terminal.ansiGreen": "#00FF00",
+    "terminal.ansiRed": "#FF1493",
+    "terminal.ansiYellow": "#FFFF00",
+    "terminal.ansiCyan": "#00FFFF",
+    "terminal.ansiWhite": "#FFFFFF",
+    "terminal.ansiBrightBlack": "#808080",
+    "terminal.ansiBrightBlue": "#87CEFA",
+    "terminal.ansiBrightGreen": "#00FF00",
+    "terminal.ansiBrightRed": "#FF1493",
+    "terminal.ansiBrightYellow": "#FFFF00",
+    "terminal.ansiBrightCyan": "#00FFFF",
+    "terminal.ansiBrightWhite": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#87CEFA"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "meta.embedded.assembly",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#FFD700"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": ["variable", "string variable"],
+      "settings": {
+        "foreground": "#00FFFF"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#00FF00"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": "storage",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": "storage.modifier.package",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    },
+    {
+      "scope": "invalid.deprecated",
+      "settings": {
+        "foreground": "#FF1493"
+      }
+    }
+  ]
+}
