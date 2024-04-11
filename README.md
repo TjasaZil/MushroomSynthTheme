@@ -13,71 +13,72 @@ Immerse yourself in a coding experience where every hue is meticulously curated 
 
 ### Yaml
 
-![alt text](images/yml.png)
+<img src="images/yml.png" alt="yml" width="700"/>
 
 ### XML
 
-![alt text](images/xml.png)
+<img src="images/xml.png" alt="xml" width="700"/>
 
 ### Typescript
 
-![alt text](images/ts.png)
+<img src="images/ts.png" alt="ts" width="700"/>
 
 ### SQL
 
-![alt text](images/sql.png)
+<img src="images/sql.png" alt="sql" width="700"/>
 
 ### Rust
 
-![alt text](images/rs.png)
+<img src="images/rs.png" alt="rs" width="700"/>
 
 ### Ruby
 
-![alt text](images/rb.png)
+<img src="images/rb.png" alt="rb" width="700"/>
 
 ### Python
 
-![alt text](images/py.png)
+<img src="images/py.png" alt="py" width="700"/>
 
 ### PHP
 
-![alt text](images/php.png)
+<img src="images/php.png" alt="php" width="700"/>
 
 ### Markdown
 
-![alt text](images/md.png)
+<img src="images/md.png" alt="md" width="700"/>
 
 ### JSON
 
-![alt text](images/json.png)
+<img src="images/json.png" alt="json" width="700"/>
 
 ### Javascript
 
-![alt text](images/js.png)
+<img src="images/js.png" alt="js" width="700"/>
 
 ### Java
 
-![alt text](images/java.png)
+<img src="images/java.png" alt="java" width="700"/>
 
 ### HTML/CSS
 
-![alt text](images/html.png)![alt text](images/css.png)
+<img src="images/html.png" alt="html" width="700"/>
+<img src="images/css.png" alt="css" width="700"/>
 
 ### GO
 
-![alt text](images/go.png)
+<img src="images/go.png" alt="go" width="700"/>
 
 ### C#
 
-![alt text](images/cs.png)
+<img src="images/cs.png" alt="cs" width="700"/>
 
 ### C++
 
-![alt text](images/cpp.png)
+<img src="images/cpp.png" alt="cpp" width="700"/>
 
 ### Dockerfile
 
-![alt text](images/dockerfile.png)
+<img src="images/dockerfile.png" alt="dockerfile" width="700"/>
 
 ## Customize
 
