@@ -1,13 +1,24 @@
 {
   "name": "mushroomsynth",
   "displayName": "MushroomSynth",
-  "description": "This is a dark VSCode theme inspired by synthvawe colours.",
-  "version": "0.0.1",
+  "description": "This is a dark VSCode theme inspired by synthwave colours.",
+  "version": "0.1.0",
+  "publisher": "TjasaZil",
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "vsc",
+    "theme",
+    "dark",
+    "neon",
+    "synthwave",
+    "mushroomsynth",
+    "synthwave dark"
   ],
   "contributes": {
     "themes": [
