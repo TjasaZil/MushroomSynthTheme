@@ -9,7 +9,6 @@ Immerse yourself in a coding experience where every hue is meticulously curated 
 - After installation, open VS Code Settings.
 - Navigate to Appearance > Color Theme and select Mushroom Synth.
 - Preview
-- Mushroom Synth brings your code to life with its carefully selected palette. Here are some screenshots showcasing how the theme looks with various languages:
 
 ## Customize
 
@@ -27,6 +26,8 @@ Want to contribute to Mushroom Synth? Your contributions are welcome! Here’s h
 - Press F5 to open a new window with the extension loaded.
 - Go to Code > Preferences > Color Theme and select Mushroom Synth to preview your changes.
 - Make your desired changes
+
+Mushroom Synth brings your code to life with its carefully selected palette. Here are some screenshots showcasing how the theme looks with various languages:
 
 ### Yaml
 
