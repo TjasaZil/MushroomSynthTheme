@@ -20,6 +20,10 @@
     "mushroomsynth",
     "synthwave dark"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TjasaZil/mushroomsynth.git"
+  },
   "contributes": {
     "themes": [
       {
