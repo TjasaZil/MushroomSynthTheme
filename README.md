@@ -11,6 +11,23 @@ Immerse yourself in a coding experience where every hue is meticulously curated 
 - Preview
 - Mushroom Synth brings your code to life with its carefully selected palette. Here are some screenshots showcasing how the theme looks with various languages:
 
+## Customize
+
+To customize this theme to your liking or to tweak minor details:
+
+Open your User Settings (settings.json).
+Use the workbench.colorCustomizations setting.
+
+## Contribute
+
+Want to contribute to Mushroom Synth? Your contributions are welcome! Here’s how you can help improve this theme:
+
+- Clone this repository and open it in VS Code.
+- Run npm install to install the dependencies.
+- Press F5 to open a new window with the extension loaded.
+- Go to Code > Preferences > Color Theme and select Mushroom Synth to preview your changes.
+- Make your desired changes
+
 ### Yaml
 
 <img src="images/yml.png" alt="yml" width="700"/>
@@ -79,20 +96,3 @@ Immerse yourself in a coding experience where every hue is meticulously curated 
 ### Dockerfile
 
 <img src="images/dockerfile.png" alt="dockerfile" width="700"/>
-
-## Customize
-
-To customize this theme to your liking or to tweak minor details:
-
-Open your User Settings (settings.json).
-Use the workbench.colorCustomizations setting.
-
-## Contribute
-
-Want to contribute to Mushroom Synth? Your contributions are welcome! Here’s how you can help improve this theme:
-
-- Clone this repository and open it in VS Code.
-- Run npm install to install the dependencies.
-- Press F5 to open a new window with the extension loaded.
-- Go to Code > Preferences > Color Theme and select Mushroom Synth to preview your changes.
-- Make your desired changes
